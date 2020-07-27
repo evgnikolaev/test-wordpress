@@ -36,5 +36,13 @@ wp-config.php - Основной конфигурационный файл
 [youtube]( https://codex.wordpress.org/%D0%98%D0%B5%D1%80%D0%B0%D1%80%D1%85%D0%B8%D1%8F_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2 )
 
 
+4.) Дамп БД  
+[youtube]( https://www.youtube.com/watch?v=AghWM5kMGX4 )  
+[youtube]( https://www.youtube.com/watch?v=_7q2DStuT_g )  
+
+https://take.ms/RVAPS 
+
+
+
 
 
